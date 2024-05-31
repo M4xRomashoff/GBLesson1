@@ -15,5 +15,6 @@ public class Main {
         vendingMachine.addProduct(product2);
 
         System.out.println(vendingMachine.getProductsInfo());
+        System.out.println("test");
     }
 }
